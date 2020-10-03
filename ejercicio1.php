@@ -33,7 +33,7 @@
             <a href="ejercicio3.php" class="nav-link">Spring Step</a>
          </li>
          <li class="navbar-item active">
-            <a href="ejercicio4.php" class="nav-link">Ejercicio 4</a>
+            <a href="ejercicio4.php" class="nav-link">Salario Semanal</a>
          </li>
         
         </ul>
@@ -54,7 +54,7 @@
             <div class="form-group row mt-3 justify-content-center">
                 <select name="calculo" id="calculo" class="form-control offset-1 col-5">
                     <option value="" selected disabled>Seleccione la operacion aritmetica</option>
-                    <option value="suma">Sumar</option>
+                    <option value="suma" selected>Sumar</option>
                     <option value="resta">Restar</option>
                     <option value="multiplication">Multiplicar</option>
                     <option value="division">Dividir</option>

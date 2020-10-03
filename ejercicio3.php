@@ -35,7 +35,7 @@
             <a href="ejercicio3.php" class="nav-link">Spring Step</a>
          </li>
          <li class="navbar-item active">
-            <a href="ejercicio4.php" class="nav-link">Ejercicio 4</a>
+            <a href="ejercicio4.php" class="nav-link">Salario Semanal</a>
          </li>
          
         </ul>
